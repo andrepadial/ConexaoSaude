@@ -1,0 +1,12 @@
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.csprojAssemblyReference.cache
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.AssemblyInfoInputs.cache
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.AssemblyInfo.cs
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Repositorios.deps.json
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Repositorios.dll
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Repositorios.pdb
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Domain.dll
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Domain.pdb
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.csproj.CopyComplete
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.dll
+C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.pdb

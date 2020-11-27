@@ -1,0 +1,462 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaudeApi\\ConexaoSaudeApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.App\\ConexaoSaude.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.App\\ConexaoSaude.App.csproj",
+        "projectName": "ConexaoSaude.App",
+        "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.App\\ConexaoSaude.App.csproj",
+        "packagesPath": "C:\\Users\\pa0044\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pa0044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://jfrog:8082/artifactory/api/nuget/v3/DayNuget": {},
+          "http://packages.nuget.org/v1/FeedService.svc": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj": {
+                "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj"
+              },
+              "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Services\\ConexaoSaude.Services.csproj": {
+                "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Services\\ConexaoSaude.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj",
+        "projectName": "ConexaoSaude.Domain",
+        "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj",
+        "packagesPath": "C:\\Users\\pa0044\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pa0044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://jfrog:8082/artifactory/api/nuget/v3/DayNuget": {},
+          "http://packages.nuget.org/v1/FeedService.svc": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Ioc\\ConexaoSaude.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Ioc\\ConexaoSaude.Ioc.csproj",
+        "projectName": "ConexaoSaude.Ioc",
+        "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Ioc\\ConexaoSaude.Ioc.csproj",
+        "packagesPath": "C:\\Users\\pa0044\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pa0044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://jfrog:8082/artifactory/api/nuget/v3/DayNuget": {},
+          "http://packages.nuget.org/v1/FeedService.svc": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.App\\ConexaoSaude.App.csproj": {
+                "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.App\\ConexaoSaude.App.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
+        "projectName": "ConexaoSaude.Repositorios",
+        "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
+        "packagesPath": "C:\\Users\\pa0044\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pa0044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://jfrog:8082/artifactory/api/nuget/v3/DayNuget": {},
+          "http://packages.nuget.org/v1/FeedService.svc": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj": {
+                "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Services\\ConexaoSaude.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Services\\ConexaoSaude.Services.csproj",
+        "projectName": "ConexaoSaude.Services",
+        "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Services\\ConexaoSaude.Services.csproj",
+        "packagesPath": "C:\\Users\\pa0044\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pa0044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://jfrog:8082/artifactory/api/nuget/v3/DayNuget": {},
+          "http://packages.nuget.org/v1/FeedService.svc": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj": {
+                "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj"
+              },
+              "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj": {
+                "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaudeApi\\ConexaoSaudeApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaudeApi\\ConexaoSaudeApi.csproj",
+        "projectName": "ConexaoSaudeApi",
+        "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaudeApi\\ConexaoSaudeApi.csproj",
+        "packagesPath": "C:\\Users\\pa0044\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaudeApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pa0044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://jfrog:8082/artifactory/api/nuget/v3/DayNuget": {},
+          "http://packages.nuget.org/v1/FeedService.svc": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Ioc\\ConexaoSaude.Ioc.csproj": {
+                "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Ioc\\ConexaoSaude.Ioc.csproj"
+              },
+              "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj": {
+                "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.2.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "SimpleInjector.Integration.AspNetCore": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "SimpleInjector.Integration.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

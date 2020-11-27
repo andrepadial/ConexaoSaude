@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConexaoSaude.Domain\ConexaoSaude.Domain.csproj" />
+    <ProjectReference Include="..\ConexaoSaude.Services\ConexaoSaude.Services.csproj" />
+  </ItemGroup>
+
+</Project>
