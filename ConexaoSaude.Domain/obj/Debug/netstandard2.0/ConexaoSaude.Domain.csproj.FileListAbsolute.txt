@@ -7,3 +7,12 @@ C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Domain\obj\Debug\netst
 C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.dll
 C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.pdb
 C:\Users\pa0044\source\repos\ConexaoSaudeApi\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.csprojAssemblyReference.cache
+C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\bin\Debug\netstandard2.0\ConexaoSaude.Domain.deps.json
+C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\bin\Debug\netstandard2.0\ConexaoSaude.Domain.dll
+C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\bin\Debug\netstandard2.0\ConexaoSaude.Domain.pdb
+C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.csprojAssemblyReference.cache
+C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.AssemblyInfoInputs.cache
+C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.AssemblyInfo.cs
+C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.dll
+C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.pdb

@@ -1039,11 +1039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
+      "projectUniqueName": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
       "projectName": "ConexaoSaude.Repositorios",
-      "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
+      "projectPath": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
       "packagesPath": "C:\\Users\\pa0044\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Repositorios\\obj\\",
+      "outputPath": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Repositorios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1065,8 +1065,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj": {
-              "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj"
+            "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj": {
+              "projectPath": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj"
             }
           }
         }
@@ -1096,16 +1096,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

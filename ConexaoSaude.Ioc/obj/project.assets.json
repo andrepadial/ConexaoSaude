@@ -1412,11 +1412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Ioc\\ConexaoSaude.Ioc.csproj",
+      "projectUniqueName": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Ioc\\ConexaoSaude.Ioc.csproj",
       "projectName": "ConexaoSaude.Ioc",
-      "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Ioc\\ConexaoSaude.Ioc.csproj",
+      "projectPath": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Ioc\\ConexaoSaude.Ioc.csproj",
       "packagesPath": "C:\\Users\\pa0044\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Ioc\\obj\\",
+      "outputPath": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Ioc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1438,8 +1438,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.App\\ConexaoSaude.App.csproj": {
-              "projectPath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.App\\ConexaoSaude.App.csproj"
+            "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.App\\ConexaoSaude.App.csproj": {
+              "projectPath": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.App\\ConexaoSaude.App.csproj"
             }
           }
         }
@@ -1465,16 +1465,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
