@@ -1,0 +1,12 @@
+USE ConexaoSaude
+GO
+
+
+
+--Carga de Categorias após o DTS de Categorias do CID
+
+INSERT	INTO CategoriaCID
+SELECT		CAT,
+			RTRIM(LTRIM(SUBSTRING(RTRIM(LTRIM(DESCRABREV)), 4, LEN(RTRIM(LTRIM(DESCRABREV))) - 3)))
+FROM		CategoriasCID
+ORDER BY	CAT
