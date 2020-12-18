@@ -20,7 +20,8 @@ namespace ConexaoSaudeApi.Settings
             obj.SerializerSettings.Culture = CultureInfo.CurrentCulture;
             obj.SerializerSettings.Converters = new List<JsonConverter>()
             {                
-                new AbstractConverter<IObterClienteSignature, ObterClienteSignature>()                                             
+                new AbstractConverter<IObterClienteSignature, ObterClienteSignature>(),
+                new AbstractConverter<IObterCidSignature, ObterCidSignature>()
             };
         }
     }

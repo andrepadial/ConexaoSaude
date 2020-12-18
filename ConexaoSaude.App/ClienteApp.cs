@@ -22,9 +22,6 @@ namespace ConexaoSaude.App.Interfaces
         {
             return await _clienteService.ObterCliente(signature);
         }
-        //public ObterClienteResult ObterCliente(IObterClienteSignature signature)
-        //{
-        //    return _clienteService.ObterCliente(signature);
-        //}
+        
     }
 }

@@ -22,3 +22,15 @@ C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debu
 C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.csproj.CopyComplete
 C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.dll
 C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Repositorios.deps.json
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Repositorios.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Repositorios.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Domain.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\bin\Debug\netstandard2.0\ConexaoSaude.Domain.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.csprojAssemblyReference.cache
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.AssemblyInfo.cs
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.csproj.CopyComplete
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Repositorios\obj\Debug\netstandard2.0\ConexaoSaude.Repositorios.pdb

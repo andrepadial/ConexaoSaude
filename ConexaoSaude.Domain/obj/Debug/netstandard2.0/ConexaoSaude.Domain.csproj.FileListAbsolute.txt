@@ -16,3 +16,11 @@ C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\nets
 C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.AssemblyInfo.cs
 C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.dll
 C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.AssemblyInfoInputs.cache
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.AssemblyInfo.cs
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\bin\Debug\netstandard2.0\ConexaoSaude.Domain.deps.json
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\bin\Debug\netstandard2.0\ConexaoSaude.Domain.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\bin\Debug\netstandard2.0\ConexaoSaude.Domain.pdb

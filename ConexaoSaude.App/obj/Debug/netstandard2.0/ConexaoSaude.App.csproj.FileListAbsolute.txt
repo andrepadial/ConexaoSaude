@@ -30,3 +30,19 @@ C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstan
 C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.csproj.CopyComplete
 C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.dll
 C:\Users\pa0044\Documents\GitHub\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\bin\Debug\netstandard2.0\ConexaoSaude.App.deps.json
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\bin\Debug\netstandard2.0\ConexaoSaude.App.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\bin\Debug\netstandard2.0\ConexaoSaude.App.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\bin\Debug\netstandard2.0\ConexaoSaude.Domain.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\bin\Debug\netstandard2.0\ConexaoSaude.Repositorios.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\bin\Debug\netstandard2.0\ConexaoSaude.Services.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\bin\Debug\netstandard2.0\ConexaoSaude.Domain.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\bin\Debug\netstandard2.0\ConexaoSaude.Services.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\bin\Debug\netstandard2.0\ConexaoSaude.Repositorios.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.csprojAssemblyReference.cache
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.AssemblyInfoInputs.cache
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.AssemblyInfo.cs
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.csproj.CoreCompileInputs.cache
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.csproj.CopyComplete
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.dll
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.App\obj\Debug\netstandard2.0\ConexaoSaude.App.pdb

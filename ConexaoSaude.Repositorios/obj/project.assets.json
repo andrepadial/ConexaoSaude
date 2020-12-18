@@ -1032,25 +1032,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pa0044\\.nuget\\packages\\": {},
+    "C:\\Users\\Cris Midori\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
+      "projectUniqueName": "C:\\Users\\Cris Midori\\Documents\\Andre\\Github\\ConexaoSaude\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
       "projectName": "ConexaoSaude.Repositorios",
-      "projectPath": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
-      "packagesPath": "C:\\Users\\pa0044\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Repositorios\\obj\\",
+      "projectPath": "C:\\Users\\Cris Midori\\Documents\\Andre\\Github\\ConexaoSaude\\ConexaoSaude.Repositorios\\ConexaoSaude.Repositorios.csproj",
+      "packagesPath": "C:\\Users\\Cris Midori\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cris Midori\\Documents\\Andre\\Github\\ConexaoSaude\\ConexaoSaude.Repositorios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\pa0044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cris Midori\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1059,14 +1059,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://jfrog:8082/artifactory/api/nuget/v3/DayNuget": {},
-        "http://packages.nuget.org/v1/FeedService.svc": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj": {
-              "projectPath": "C:\\Users\\pa0044\\Documents\\GitHub\\ConexaoSaude\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj"
+            "C:\\Users\\Cris Midori\\Documents\\Andre\\Github\\ConexaoSaude\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj": {
+              "projectPath": "C:\\Users\\Cris Midori\\Documents\\Andre\\Github\\ConexaoSaude\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj"
             }
           }
         }
@@ -1079,6 +1079,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "Dapper": {
             "target": "Package",
@@ -1096,10 +1097,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

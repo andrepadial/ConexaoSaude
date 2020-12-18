@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4gBFZLMQzsSCybCDl9+/mRQbVCMovG1ptjSEiauBL6Q0rhep5J+kWKTm55sLnLDqYCzUrSG3/bXel/I5E+Fn0A==",
+  "dgSpecHash": "/Hz9/Dis7ycezDYsbQaN926DnECnZnG4vAS+0YNkxCROapm6qbZbKmOLP3wma6AcvE4hPctDs09YGpwpD3xPow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pa0044\\source\\repos\\ConexaoSaudeApi\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Cris Midori\\Documents\\Andre\\Github\\ConexaoSaude\\ConexaoSaude.Domain\\ConexaoSaude.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pa0044\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Cris Midori\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cris Midori\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,7 +1,9 @@
 ﻿using System;
+using ConexaoSaude.App;
 using ConexaoSaude.App.Interfaces;
 using ConexaoSaude.Repositorios;
 using ConexaoSaude.Repositorios.Interfaces;
+using ConexaoSaude.Services;
 using ConexaoSaude.Services.Interfaces;
 using SimpleInjector;
 using SimpleInjector.Lifestyles;
@@ -32,17 +34,20 @@ namespace ConexaoSaude.Ioc
 
         private static void RegisterApplications()
         {
-            _container.Register<IClienteApp, ClienteApp>(Lifestyle.Scoped);            
+            _container.Register<IClienteApp, ClienteApp>(Lifestyle.Scoped);
+            _container.Register<ICidApp, CidApp>(Lifestyle.Scoped);
         }
 
         private static void RegisterServices()
         {
-            _container.Register<IClienteService, ClienteService>(Lifestyle.Scoped);            
+            _container.Register<IClienteService, ClienteService>(Lifestyle.Scoped);
+            _container.Register<ICidService, CidService>(Lifestyle.Scoped);
         }
 
         private static void RegisterRepositories()
         {
-            _container.Register<IClienteRepositorio, ClienteRepositorio>(Lifestyle.Scoped);            
+            _container.Register<IClienteRepositorio, ClienteRepositorio>(Lifestyle.Scoped);
+            _container.Register<ICidRepositorio, CidRepositorio>(Lifestyle.Scoped);
         }
 
         private static void RegisterProxys()

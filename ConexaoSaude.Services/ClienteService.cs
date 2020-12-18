@@ -2,12 +2,13 @@
 using ConexaoSaude.Domain.Interfaces.Signatures;
 using ConexaoSaude.Domain.Models.Results;
 using ConexaoSaude.Repositorios.Interfaces;
+using ConexaoSaude.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConexaoSaude.Services.Interfaces
+namespace ConexaoSaude.Services
 {
     public class ClienteService : IClienteService
     {
@@ -21,11 +22,6 @@ namespace ConexaoSaude.Services.Interfaces
         public async Task<IObterClienteResult> ObterCliente(IObterClienteSignature signature)
         {
             return await _clienteRepositorio.ObterCliente(signature);
-        }
-
-        //public ObterClienteResult ObterCliente(IObterClienteSignature signature)
-        //{
-        //    return _clienteRepositorio.ObterCliente(signature);
-        //}
+        }        
     }
 }
