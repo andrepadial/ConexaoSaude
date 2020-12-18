@@ -36,18 +36,21 @@ namespace ConexaoSaude.Ioc
         {
             _container.Register<IClienteApp, ClienteApp>(Lifestyle.Scoped);
             _container.Register<ICidApp, CidApp>(Lifestyle.Scoped);
+            _container.Register<IOperadoraApp, OperadoraApp>(Lifestyle.Scoped);
         }
 
         private static void RegisterServices()
         {
             _container.Register<IClienteService, ClienteService>(Lifestyle.Scoped);
             _container.Register<ICidService, CidService>(Lifestyle.Scoped);
+            _container.Register<IOperadoraService, OperadoraService>(Lifestyle.Scoped);
         }
 
         private static void RegisterRepositories()
         {
             _container.Register<IClienteRepositorio, ClienteRepositorio>(Lifestyle.Scoped);
             _container.Register<ICidRepositorio, CidRepositorio>(Lifestyle.Scoped);
+            _container.Register<IOperadoraRepositorio, OperadoraRepositorio>(Lifestyle.Scoped);
         }
 
         private static void RegisterProxys()

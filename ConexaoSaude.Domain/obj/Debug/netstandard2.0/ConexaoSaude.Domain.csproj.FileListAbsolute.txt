@@ -24,3 +24,4 @@ C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\obj
 C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\bin\Debug\netstandard2.0\ConexaoSaude.Domain.deps.json
 C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\bin\Debug\netstandard2.0\ConexaoSaude.Domain.dll
 C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\bin\Debug\netstandard2.0\ConexaoSaude.Domain.pdb
+C:\Users\Cris Midori\Documents\Andre\Github\ConexaoSaude\ConexaoSaude.Domain\obj\Debug\netstandard2.0\ConexaoSaude.Domain.csprojAssemblyReference.cache

@@ -21,7 +21,8 @@ namespace ConexaoSaudeApi.Settings
             obj.SerializerSettings.Converters = new List<JsonConverter>()
             {                
                 new AbstractConverter<IObterClienteSignature, ObterClienteSignature>(),
-                new AbstractConverter<IObterCidSignature, ObterCidSignature>()
+                new AbstractConverter<IObterCidSignature, ObterCidSignature>(),
+                new AbstractConverter<IListarOperadoraSignature, ListarOperadoraSignature>()
             };
         }
     }
